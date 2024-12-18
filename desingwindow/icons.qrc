@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/asave.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/copy.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/cut.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/editor.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/find.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/new.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/open.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/paste.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/save.png</file>
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/images/undo.png</file>
+    </qresource>
+</RCC>
